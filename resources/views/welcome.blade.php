@@ -86,10 +86,11 @@
 
                 <div class="links">
                     <p>Nicolò</p>
+                    <p>Nicolò2</p>
                     <p>alessandro</p>
                     <p>andrea</p>
                     <a href="#">ciao vsevolod</a>
-                    <a href="#">ciao vsevolod-2</a> 
+                    <a href="#">ciao vsevolod-2</a>
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
