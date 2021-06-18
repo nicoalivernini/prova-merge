@@ -88,7 +88,8 @@
                     <p>Nicolò</p>
                     <p>alessandro</p>
                     <p>andrea</p>
-                    <a href="#">ciao vsevolod</a>            
+                    <p>andrea2</p>
+                    <a href="#">ciao vsevolod</a>
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
