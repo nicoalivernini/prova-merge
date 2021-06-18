@@ -86,6 +86,8 @@
 
                 <div class="links">
                     <p>Nicolò</p>
+                    <p>alessandro</p>
+
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
